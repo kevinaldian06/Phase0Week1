@@ -1,0 +1,62 @@
+body {
+   background: url(http://desigiphy.com/images/bg2.jpg) no-repeat fixed;
+   -webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   -o-background-size: 100% 100%;
+   background-size: 100% 100%;
+}
+
+img {
+   display: block;
+   margin:0 auto;
+   max-width: 900px;
+   top:10px;
+   width: 20%;
+   height: 20%;
+   padding-bottom: 20px;
+   border-radius:100%;
+} 
+
+
+h2 {
+
+  color: white;
+  font-family: Times New Roman;
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+
+h3 {
+
+  color: white;
+  font-family: Times New Roman;
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+
+.action {
+  background: black;
+  box-sizing: border-box;
+  width: 70%;
+  margin: 2px auto;
+  padding: 1px 0px;
+  text-align: center;
+  opacity: 0.5;
+  padding-bottom: 30px;
+}
+
+.soc {
+  display: flex;
+  border-radius: 100%;
+ 
+ 
+}
+
+footer {
+	padding-top: 10px;
+	text-align: center;
+	letter-spacing: 1px;
+	color: #000;
+}
